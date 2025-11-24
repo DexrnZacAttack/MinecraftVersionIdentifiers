@@ -14,6 +14,9 @@ If a version has nothing notable, we choose a name for another close version and
 | Emerald     | 1.3.1    |
 | Realms      | 1.7.9    |
 | Color       | 1.12     |
+| Aquatic     | 1.13     |
+| Pillage     | 1.14     |
+| Bee         | 1.15     |
 | Nether      | 1.16     |
 | Caves       | 1.17     |
 | Cliffs      | 1.18     |
